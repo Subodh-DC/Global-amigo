@@ -145,7 +145,7 @@
                   <li>
                      <div class="it-contact__list d-flex align-items-start">
                         <div class="it-contact__icon">
-                           <span>
+                           <span style="display: flex;align-items: center;justify-content: center;">
                               <!-- Existing clock SVG unchanged -->
                               <svg width="25" height="25" viewBox="0 0 25 25" fill="none"
                                  xmlns="http://www.w3.org/2000/svg">
@@ -177,7 +177,7 @@
                   <li>
                      <div class="it-contact__list d-flex align-items-start">
                         <div class="it-contact__icon">
-                           <span>
+                           <span style="display: flex;align-items: center;justify-content: center;">
                               <!-- Existing phone SVG unchanged -->
                               <svg width="25" height="25" viewBox="0 0 25 25" fill="none"
                                  xmlns="http://www.w3.org/2000/svg">
@@ -204,7 +204,7 @@
                   <li>
                      <div class="it-contact__list d-flex align-items-start">
                         <div class="it-contact__icon">
-                           <span>
+                           <span style="display: flex;align-items: center;justify-content: center;">
                               <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
                                  xmlns="http://www.w3.org/2000/svg">
                                  <path
@@ -227,7 +227,7 @@
                   <li>
                      <div class="it-contact__list d-flex align-items-start">
                         <div class="it-contact__icon">
-                           <span>
+                           <span style="display: flex;align-items: center;justify-content: center;">
                               <svg width="25" height="25" viewBox="0 0 25 25" fill="none"
                                  xmlns="http://www.w3.org/2000/svg">
                                  <path
