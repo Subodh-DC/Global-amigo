@@ -284,7 +284,7 @@
 
           <div class="col-xl-5 col-lg-5 order-1 order-lg-0">
             <div class="it-about-5-thumb">
-              <img src="assets/img/about/about1.png" alt="Scientific research and human performance instrumentation">
+              <img src="assets/img/about/about1.png" alt="Scientific research and human performance instrumentation" style="border-radius: 20px;">
             </div>
           </div>
 
@@ -381,7 +381,7 @@
 
                 <div class="col-xl-5 col-lg-5 col-md-5">
                   <div class="it-about-5-thumb-sm text-end">
-                    <img src="assets/img/about/about2.png" alt="Human movement and scientific measurement research">
+                    <img src="assets/img/about/about2.png" alt="Human movement and scientific measurement research" style="border-radius: 20px;">
                   </div>
                 </div>
 
@@ -434,7 +434,7 @@
               </div>
 
               <div class="it-service-thumb mb-25">
-                <img src="assets/img/service/Pharmaceutical.png" alt="Biomechanics and Force Measurement Instruments" />
+                <img src="assets/img/service/force-measurement-systems.png" alt="Biomechanics and Force Measurement Instruments" />
               </div>
 
               <div class="it-service-content">
@@ -461,7 +461,7 @@
               </div>
 
               <div class="it-service-thumb mb-25">
-                <img src="assets/img/service/Nutraceutical.png" alt="EEG and Neural Signal Recording Systems" />
+                <img src="assets/img/service/eeg-recording.png" alt="EEG and Neural Signal Recording Systems" />
               </div>
 
               <div class="it-service-content">
@@ -488,7 +488,7 @@
               </div>
 
               <div class="it-service-thumb mb-25">
-                <img src="assets/img/service/Food.png" alt="Gait Analysis and Plantar Pressure Measurement" />
+                <img src="assets/img/service/gait-plantar-pressure.png" alt="Gait Analysis and Plantar Pressure Measurement" />
               </div>
 
               <div class="it-service-content">
@@ -515,7 +515,7 @@
               </div>
 
               <div class="it-service-thumb mb-25">
-                <img src="assets/img/service/Cosmetic.png" alt="Physiological Monitoring and Temperature Measurement" />
+                <img src="assets/img/service/physiological-monitoring.png" alt="Physiological Monitoring and Temperature Measurement" />
               </div>
 
               <div class="it-service-content">
@@ -542,7 +542,7 @@
               </div>
 
               <div class="it-service-thumb mb-25">
-                <img src="assets/img/service/Global.png" alt="3D Foot Scanning and Anthropometric Measurement" />
+                <img src="assets/img/service/foot-morphology.png" alt="3D Foot Scanning and Anthropometric Measurement" />
               </div>
 
               <div class="it-service-content">
@@ -569,7 +569,7 @@
               </div>
 
               <div class="it-service-thumb mb-25">
-                <img src="assets/img/service/Regulatory.png" alt="Pressure Mapping and Ergonomics Research Systems" />
+                <img src="assets/img/service/pressure-mapping.png" alt="Pressure Mapping and Ergonomics Research Systems" />
               </div>
 
               <div class="it-service-content">
@@ -594,7 +594,7 @@
 
 
     <!-- choose-area-start -->
-    <div class="it-choose-area it-choose-style-3 p-relative z-index pt-120 pb-170">
+    <div class="it-choose-area it-choose-style-3 p-relative z-index pt-120">
       <div class="container">
         <div class="row align-items-center">
           <div class="col-xl-6 col-lg-6">
@@ -663,15 +663,15 @@
           <div class="col-xl-6 col-lg-6">
             <div class="it-choose-right p-relative text-end">
               <div class="it-choose-thumb p-relative">
-                <img src="assets/img/choose/choose-5-1.jpg"
+                <img src="assets/img/choose/choose-5-1.png"
                   alt="Scientific instrumentation for human performance research">
               </div>
               <div class="it-choose-thumb-sm">
-                <img src="assets/img/choose/choose-5-2.jpg" alt="Research and biomechanics technology">
+                <img src="assets/img/choose/choose-5-2.png" alt="Research and biomechanics technology">
               </div>
               <div class="it-choose-experience">
                 <div class="text-center">
-                  <h6>Research</h6>
+                  <h6 style="font-size: 35px;">Research</h6>
                   <span>Focused Technologies</span>
                 </div>
               </div>
@@ -683,145 +683,194 @@
     <!-- choose-area-end -->
 
 
-    <!-- testimonial-area-start -->
-    <div class="it-testimonial-area it-testimonial-2-ptb it-testimonial-style-3 pb-120 pt-150 p-relative">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-xl-6">
-            <div class="it-testimonial-2-title-box text-center mb-70">
-              <span class="it-section-subtitle red-border">Advanced Scientific Instrumentation</span>
-              <h3 class="it-section-title d-block">Technology for Human Performance <br> and Scientific Research</h3>
-            </div>
+
+<!-- testimonial-area-start -->
+<div class="it-testimonial-area it-testimonial-2-ptb it-testimonial-style-3 pb-120 pt-150 p-relative">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-xl-6">
+        <div class="it-testimonial-2-title-box text-center mb-70">
+          <span class="it-section-subtitle red-border">Advanced Scientific Instrumentation</span>
+          <h3 class="it-section-title d-block">
+            Technology for Human Performance <br>
+            and Scientific Research
+          </h3>
+        </div>
+      </div>
+    </div>
+
+    <div class="it-testimonial-2-wrap p-relative">
+      <div class="row">
+
+        <!-- Main research image -->
+        <div class="col-xl-5 col-lg-5">
+          <div class="it-testimonial-2-thumb-sm z-index">
+            <img
+              src="assets/img/testimonial/thumb-5-1.png"
+              alt="Scientific research and human performance instrumentation">
           </div>
         </div>
 
-        <div class="it-testimonial-2-wrap p-relative">
-          <div class="row">
-            <div class="col-xl-5 col-lg-5">
-              <div class="it-testimonial-2-thumb-sm z-index">
-                <img src="assets/img/testimonial/thumb-5-1.jpg"
-                  alt="Scientific research and human performance instrumentation">
-              </div>
-            </div>
+        <!-- Research slider -->
+        <div class="col-xl-7 col-lg-7">
+          <div class="it-testimonial-2-right z-index">
+            <div class="it-testimonial-2-wrapper p-relative">
 
-            <div class="col-xl-7 col-lg-7">
-              <div class="it-testimonial-2-right z-index">
-                <div class="it-testimonial-2-wrapper p-relative">
-                  <div class="swiper-container it-testimonial-3-active">
-                    <div class="swiper-wrapper">
+              <div class="swiper-container it-testimonial-3-active">
+                <div class="swiper-wrapper">
 
-                      <div class="swiper-slide">
-                        <div class="it-testimonial-2-item">
-                          <div class="it-testimonial-ratting">
-                            <i class="fa-solid fa-microscope"></i>
-                          </div>
-                          <div class="it-testimonial-text mb-30">
-                            <p class="text-white">
-                              Explore scientific instruments designed to support biomechanics research,
-                              including force measurement, gait analysis, movement assessment, and
-                              plantar pressure distribution. These technologies help researchers collect
-                              data to investigate human movement and physical performance.
-                            </p>
-                          </div>
-                          <div class="it-testimonial-author-box d-flex align-items-center">
-                            <div class="it-testimonial-author mr-15">
-                              <img src="assets/img/testimonial/avatar-5.png" alt="Biomechanics research">
-                            </div>
-                            <div class="it-testimonial-author-info">
-                              <h5 class="text-white">Biomechanics</h5>
-                              <span>Movement & Force Measurement</span>
-                            </div>
-                          </div>
-                        </div>
+                  <!-- Slide 1: Biomechanics -->
+                  <div class="swiper-slide">
+                    <div class="it-testimonial-2-item">
+
+                      <div class="it-testimonial-ratting">
+                        <i class="fa-solid fa-microscope"></i>
                       </div>
 
-                      <div class="swiper-slide">
-                        <div class="it-testimonial-2-item">
-                          <div class="it-testimonial-ratting">
-                            <i class="fa-solid fa-brain"></i>
-                          </div>
-                          <div class="it-testimonial-text mb-30">
-                            <p class="text-white">
-                              Discover instrumentation for neuroscience and behavioral research,
-                              including mobile EEG systems for recording electrical brain activity.
-                              These technologies can support studies involving cognition, motor control,
-                              neural activity, and experimental behavior.
-                            </p>
-                          </div>
-                          <div class="it-testimonial-author-box d-flex align-items-center">
-                            <div class="it-testimonial-author mr-15">
-                              <img src="assets/img/testimonial/avatar-1.png" alt="Neuroscience research">
-                            </div>
-                            <div class="it-testimonial-author-info">
-                              <h5 class="text-white">Neuroscience</h5>
-                              <span>EEG & Neural Signal Research</span>
-                            </div>
-                          </div>
-                        </div>
+                      <div class="it-testimonial-text mb-30">
+                        <p class="text-white">
+                          Explore scientific instruments designed to support biomechanics research,
+                          including force measurement, gait analysis, movement assessment, and
+                          plantar pressure distribution. These technologies help researchers collect
+                          data to investigate human movement and physical performance.
+                        </p>
                       </div>
 
-                      <div class="swiper-slide">
-                        <div class="it-testimonial-2-item">
-                          <div class="it-testimonial-ratting">
-                            <i class="fa-solid fa-heart-pulse"></i>
-                          </div>
-                          <div class="it-testimonial-text mb-30">
-                            <p class="text-white">
-                              Investigate physiological responses with technologies for muscle oxygenation,
-                              hydration-related estimates, and temperature monitoring. These instruments
-                              can support research into exercise physiology, thermoregulation, recovery,
-                              and human performance.
-                            </p>
-                          </div>
-                          <div class="it-testimonial-author-box d-flex align-items-center">
-                            <div class="it-testimonial-author mr-15">
-                              <img src="assets/img/testimonial/avatar-5.png" alt="Physiology research">
-                            </div>
-                            <div class="it-testimonial-author-info">
-                              <h5 class="text-white">Physiology</h5>
-                              <span>Monitoring & Performance Research</span>
-                            </div>
-                          </div>
+                      <div class="it-testimonial-author-box d-flex align-items-center">
+                        <div class="it-testimonial-author mr-15">
+                          <img
+                            src="https://images.pexels.com/photos/33261969/pexels-photo-33261969.jpeg"
+                            alt="Sample profile for biomechanics research"
+                            loading="lazy">
                         </div>
-                      </div>
 
-                      <div class="swiper-slide">
-                        <div class="it-testimonial-2-item">
-                          <div class="it-testimonial-ratting">
-                            <i class="fa-solid fa-vr-cardboard"></i>
-                          </div>
-                          <div class="it-testimonial-text mb-30">
-                            <p class="text-white">
-                              Explore technologies for haptic feedback, motion capture, wearable sensing,
-                              and human-machine interaction. Depending on the system and configuration,
-                              these technologies can support immersive simulation, motor learning,
-                              and rehabilitation-related research.
-                            </p>
-                          </div>
-                          <div class="it-testimonial-author-box d-flex align-items-center">
-                            <div class="it-testimonial-author mr-15">
-                              <img src="assets/img/testimonial/avatar-1.png" alt="Human-machine interaction research">
-                            </div>
-                            <div class="it-testimonial-author-info">
-                              <h5 class="text-white">Human Performance</h5>
-                              <span>Haptics & Motion Research</span>
-                            </div>
-                          </div>
+                        <div class="it-testimonial-author-info">
+                          <h5 class="text-white">Dr. Arjun Sharma</h5>
+                          <span>Biomechanics & Force Measurement</span>
                         </div>
                       </div>
 
                     </div>
                   </div>
 
-                  <div class="it-slider-dots text-end"></div>
+                  <!-- Slide 2: Neuroscience -->
+                  <div class="swiper-slide">
+                    <div class="it-testimonial-2-item">
+
+                      <div class="it-testimonial-ratting">
+                        <i class="fa-solid fa-brain"></i>
+                      </div>
+
+                      <div class="it-testimonial-text mb-30">
+                        <p class="text-white">
+                          Discover instrumentation for neuroscience and behavioral research,
+                          including mobile EEG systems for recording electrical brain activity.
+                          These technologies can support studies involving cognition, motor control,
+                          neural activity, and experimental behavior.
+                        </p>
+                      </div>
+
+                      <div class="it-testimonial-author-box d-flex align-items-center">
+                        <div class="it-testimonial-author mr-15">
+                          <img
+                            src="https://plus.unsplash.com/premium_photo-1664478244612-d4b3238abd81?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+                            alt="Sample profile for neuroscience research"
+                            loading="lazy">
+                        </div>
+
+                        <div class="it-testimonial-author-info">
+                          <h5 class="text-white">Dr. Priya Verma</h5>
+                          <span>Neuroscience & EEG Research</span>
+                        </div>
+                      </div>
+
+                    </div>
+                  </div>
+
+                  <!-- Slide 3: Physiology -->
+                  <div class="swiper-slide">
+                    <div class="it-testimonial-2-item">
+
+                      <div class="it-testimonial-ratting">
+                        <i class="fa-solid fa-heart-pulse"></i>
+                      </div>
+
+                      <div class="it-testimonial-text mb-30">
+                        <p class="text-white">
+                          Investigate physiological responses with technologies for muscle oxygenation,
+                          hydration-related estimates, and temperature monitoring. These instruments
+                          can support research into exercise physiology, thermoregulation, recovery,
+                          and human performance.
+                        </p>
+                      </div>
+
+                      <div class="it-testimonial-author-box d-flex align-items-center">
+                        <div class="it-testimonial-author mr-15">
+                          <img
+                            src="https://images.pexels.com/photos/8330435/pexels-photo-8330435.jpeg"
+                            alt="Sample profile for physiology research"
+                            loading="lazy">
+                        </div>
+
+                        <div class="it-testimonial-author-info">
+                          <h5 class="text-white">Dr. Rahul Mehta</h5>
+                          <span>Physiology & Performance Research</span>
+                        </div>
+                      </div>
+
+                    </div>
+                  </div>
+
+                  <!-- Slide 4: Human Performance -->
+                  <div class="swiper-slide">
+                    <div class="it-testimonial-2-item">
+
+                      <div class="it-testimonial-ratting">
+                        <i class="fa-solid fa-vr-cardboard"></i>
+                      </div>
+
+                      <div class="it-testimonial-text mb-30">
+                        <p class="text-white">
+                          Explore technologies for haptic feedback, motion capture, wearable sensing,
+                          and human-machine interaction. Depending on the system and configuration,
+                          these technologies can support immersive simulation, motor learning,
+                          and rehabilitation-related research.
+                        </p>
+                      </div>
+
+                      <div class="it-testimonial-author-box d-flex align-items-center">
+                        <div class="it-testimonial-author mr-15">
+                          <img
+                            src="https://media.istockphoto.com/id/1312451456/photo/business-woman-at-office-stock-photo.jpg?s=612x612&w=0&k=20&c=1L7yTeY2VcQpm7NgmwHj6rKudVkc0skMAH7Ot5T2oZo="
+                            alt="Sample profile for human performance research"
+                            loading="lazy">
+                        </div>
+
+                        <div class="it-testimonial-author-info">
+                          <h5 class="text-white">Dr. Neha Kapoor</h5>
+                          <span>Human Performance & Haptics</span>
+                        </div>
+                      </div>
+
+                    </div>
+                  </div>
+
                 </div>
               </div>
+
+              <!-- Slider navigation dots -->
+              <div class="it-slider-dots text-end"></div>
+
             </div>
           </div>
         </div>
+
       </div>
     </div>
-    <!-- testimonial-area-end -->
+  </div>
+</div>
+<!-- testimonial-area-end -->
+
 
 
   </main>

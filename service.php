@@ -97,348 +97,168 @@
 
                 <div class="row">
 
-      <!-- 1: Mobile EEG -->
-      <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".3s">
-        <div class="it-service-item">
-          <div class="it-service-category mb-30"><span>Neuroscience</span></div>
-          <div class="it-service-thumb mb-25">
-            <img src="assets/img/service/Nutraceutical.png" alt="Mobile EEG research system" />
-          </div>
-          <div class="it-service-content">
-            <h4 class="it-service-title mb-15">
-              <a class="hover-anim" href="service.php">Mobile EEG Systems</a>
-            </h4>
-            <p>
-              Explore neural signal recording technologies for neuroscience,
-              cognition, motor control, and behavioral research.
-            </p>
-          </div>
-        </div>
-      </div>
+      
+                <!-- 1 -->
+          <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".3s">
+            <div class="it-service-item">
+              <div class="it-service-category mb-30">
+                <span>Biomechanics</span>
+              </div>
 
-      <!-- 2: Haptics and Motion Capture -->
-      <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".5s">
-        <div class="it-service-item">
-          <div class="it-service-category mb-30"><span>Haptics & Motion</span></div>
-          <div class="it-service-thumb mb-25">
-            <img src="assets/img/service/Global.png" alt="Wearable haptic feedback and motion capture technology" />
-          </div>
-          <div class="it-service-content">
-            <h4 class="it-service-title mb-15">
-              <a class="hover-anim" href="service.php">Haptic Feedback & Motion Capture</a>
-            </h4>
-            <p>
-              Discover wearable haptic feedback, motion capture, and biometric
-              sensing technologies for immersive interaction and research.
-            </p>
-          </div>
-        </div>
-      </div>
+              <div class="it-service-thumb mb-25">
+                <img src="assets/img/service/force-measurement-systems.png" alt="Biomechanics and Force Measurement Instruments" />
+              </div>
 
-      <!-- 3: Muscle Oxygenation -->
-      <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".7s">
-        <div class="it-service-item">
-          <div class="it-service-category mb-30"><span>Sports Physiology</span></div>
-          <div class="it-service-thumb mb-25">
-            <img src="assets/img/service/Pharmaceutical.png" alt="Muscle oxygenation monitoring technology" />
-          </div>
-          <div class="it-service-content">
-            <h4 class="it-service-title mb-15">
-              <a class="hover-anim" href="service.php">Muscle Oxygenation Monitoring</a>
-            </h4>
-            <p>
-              Measure local muscle oxygen saturation (SmO₂) to support exercise
-              physiology, training response, and recovery research.
-            </p>
-          </div>
-        </div>
-      </div>
+              <div class="it-service-content">
+                <h4 class="it-service-title mb-15">
+                  <a class="hover-anim" href="service.php">
+                    Force Measurement Systems
+                  </a>
+                </h4>
 
-      <!-- 4: Force Plates -->
-      <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".3s">
-        <div class="it-service-item">
-          <div class="it-service-category mb-30"><span>Biomechanics</span></div>
-          <div class="it-service-thumb mb-25">
-            <img src="assets/img/service/Food.png" alt="Biomechanics force measurement plate" />
+                <p>
+                  Explore force plates and wearable force measurement technologies
+                  for gait analysis, balance assessment, jumping, and movement
+                  biomechanics research.
+                </p>
+              </div>
+            </div>
           </div>
-          <div class="it-service-content">
-            <h4 class="it-service-title mb-15">
-              <a class="hover-anim" href="service.php">Force Plates & Measurement</a>
-            </h4>
-            <p>
-              Study ground reaction forces and moments during standing, walking,
-              running, jumping, balance, and other movements.
-            </p>
-          </div>
-        </div>
-      </div>
 
-      <!-- 5: Wearable Force Measurement -->
-      <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".5s">
-        <div class="it-service-item">
-          <div class="it-service-category mb-30"><span>Wearable Sensors</span></div>
-          <div class="it-service-thumb mb-25">
-            <img src="assets/img/service/Regulatory.png" alt="Wearable force measurement system" />
-          </div>
-          <div class="it-service-content">
-            <h4 class="it-service-title mb-15">
-              <a class="hover-anim" href="service.php">Wearable Force Measurement</a>
-            </h4>
-            <p>
-              Explore wearable force sensing for dynamic movement studies,
-              locomotion, pedal-related force measurement, and biomechanics research.
-            </p>
-          </div>
-        </div>
-      </div>
+          <!-- 2 -->
+          <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".5s">
+            <div class="it-service-item">
+              <div class="it-service-category mb-30">
+                <span>Neuroscience</span>
+              </div>
 
-      <!-- 6: 3D Foot Scanning -->
-      <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".7s">
-        <div class="it-service-item">
-          <div class="it-service-category mb-30"><span>Foot Morphology</span></div>
-          <div class="it-service-thumb mb-25">
-            <img src="assets/img/service/Cosmetic.png" alt="3D foot scanning system" />
-          </div>
-          <div class="it-service-content">
-            <h4 class="it-service-title mb-15">
-              <a class="hover-anim" href="service.php">3D Foot Scanning</a>
-            </h4>
-            <p>
-              Capture three-dimensional foot models and anthropometric
-              measurements for foot morphology and footwear research.
-            </p>
-          </div>
-        </div>
-      </div>
+              <div class="it-service-thumb mb-25">
+                <img src="assets/img/service/eeg-recording.png" alt="EEG and Neural Signal Recording Systems" />
+              </div>
 
-      <!-- 7: Plantar Pressure -->
-      <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".3s">
-        <div class="it-service-item">
-          <div class="it-service-category mb-30"><span>Gait Analysis</span></div>
-          <div class="it-service-thumb mb-25">
-            <img src="assets/img/service/Food.png" alt="In-shoe plantar pressure sensors" />
-          </div>
-          <div class="it-service-content">
-            <h4 class="it-service-title mb-15">
-              <a class="hover-anim" href="service.php">Plantar Pressure Analysis</a>
-            </h4>
-            <p>
-              Investigate pressure distribution inside footwear during walking
-              and running for gait, foot loading, and insole evaluation research.
-            </p>
-          </div>
-        </div>
-      </div>
+              <div class="it-service-content">
+                <h4 class="it-service-title mb-15">
+                  <a class="hover-anim" href="service.php">
+                    EEG & Neural Recording
+                  </a>
+                </h4>
 
-      <!-- 8: Hand Pressure -->
-      <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".5s">
-        <div class="it-service-item">
-          <div class="it-service-category mb-30"><span>Hand Biomechanics</span></div>
-          <div class="it-service-thumb mb-25">
-            <img src="assets/img/service/Global.png" alt="Pressure sensing glove for hand biomechanics" />
+                <p>
+                  Discover mobile EEG technologies for recording electrical brain
+                  activity in neuroscience, cognition, motor control, and
+                  behavioral research.
+                </p>
+              </div>
+            </div>
           </div>
-          <div class="it-service-content">
-            <h4 class="it-service-title mb-15">
-              <a class="hover-anim" href="service.php">Hand Pressure Mapping</a>
-            </h4>
-            <p>
-              Study hand pressure distribution and grasping mechanics using
-              wearable sensing glove technology for ergonomics and human factors.
-            </p>
-          </div>
-        </div>
-      </div>
 
-      <!-- 9: Seating Pressure -->
-      <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".7s">
-        <div class="it-service-item">
-          <div class="it-service-category mb-30"><span>Ergonomics</span></div>
-          <div class="it-service-thumb mb-25">
-            <img src="assets/img/service/Regulatory.png" alt="Seating pressure mapping sensor system" />
-          </div>
-          <div class="it-service-content">
-            <h4 class="it-service-title mb-15">
-              <a class="hover-anim" href="service.php">Seating Pressure Mapping</a>
-            </h4>
-            <p>
-              Examine pressure distribution across seating and back-contact
-              surfaces for seating ergonomics and product evaluation research.
-            </p>
-          </div>
-        </div>
-      </div>
+          <!-- 3 -->
+          <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".7s">
+            <div class="it-service-item">
+              <div class="it-service-category mb-30">
+                <span>Gait Analysis</span>
+              </div>
 
-      <!-- 10: Hydration Monitoring -->
-      <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".3s">
-        <div class="it-service-item">
-          <div class="it-service-category mb-30"><span>Hydration Research</span></div>
-          <div class="it-service-thumb mb-25">
-            <img src="assets/img/service/Pharmaceutical.png" alt="Wearable sweat and hydration sensing technology" />
-          </div>
-          <div class="it-service-content">
-            <h4 class="it-service-title mb-15">
-              <a class="hover-anim" href="service.php">Hydration & Sweat Monitoring</a>
-            </h4>
-            <p>
-              Explore wearable sweat-sensing technologies that provide
-              hydration-related estimates for sports science and exercise physiology.
-            </p>
-          </div>
-        </div>
-      </div>
+              <div class="it-service-thumb mb-25">
+                <img src="assets/img/service/gait-plantar-pressure.png" alt="Gait Analysis and Plantar Pressure Measurement" />
+              </div>
 
-      <!-- 11: Core Temperature -->
-      <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".5s">
-        <div class="it-service-item">
-          <div class="it-service-category mb-30"><span>Thermophysiology</span></div>
-          <div class="it-service-thumb mb-25">
-            <img src="assets/img/service/Cosmetic.png" alt="Core body temperature monitoring technology" />
-          </div>
-          <div class="it-service-content">
-            <h4 class="it-service-title mb-15">
-              <a class="hover-anim" href="service.php">Core Temperature Monitoring</a>
-            </h4>
-            <p>
-              Explore core temperature data collection technologies for
-              thermoregulation, exercise physiology, and heat-stress research.
-            </p>
-          </div>
-        </div>
-      </div>
+              <div class="it-service-content">
+                <h4 class="it-service-title mb-15">
+                  <a class="hover-anim" href="service.php">
+                    Gait & Plantar Pressure Analysis
+                  </a>
+                </h4>
 
-      <!-- 12: Surface Temperature -->
-      <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".7s">
-        <div class="it-service-item">
-          <div class="it-service-category mb-30"><span>Temperature Sensing</span></div>
-          <div class="it-service-thumb mb-25">
-            <img src="assets/img/service/Nutraceutical.png" alt="Surface temperature measurement sensors" />
+                <p>
+                  Investigate walking and running mechanics using in-shoe plantar
+                  pressure sensors and technologies designed to study foot loading
+                  and movement patterns.
+                </p>
+              </div>
+            </div>
           </div>
-          <div class="it-service-content">
-            <h4 class="it-service-title mb-15">
-              <a class="hover-anim" href="service.php">Surface Temperature Measurement</a>
-            </h4>
-            <p>
-              Measure surface and skin temperature for studies of thermal
-              responses, exercise physiology, and environmental conditions.
-            </p>
-          </div>
-        </div>
-      </div>
 
-      <!-- 13: 3D Movement Analysis -->
-      <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".3s">
-        <div class="it-service-item">
-          <div class="it-service-category mb-30"><span>Movement Research</span></div>
-          <div class="it-service-thumb mb-25">
-            <img src="assets/img/service/Global.png" alt="Movement analysis research technology" />
-          </div>
-          <div class="it-service-content">
-            <h4 class="it-service-title mb-15">
-              <a class="hover-anim" href="service.php">3D Movement Analysis</a>
-            </h4>
-            <p>
-              Explore movement-analysis technology for research applications.
-              Confirm specific system capabilities and configuration with our team.
-            </p>
-          </div>
-        </div>
-      </div>
+          <!-- 4 -->
+          <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".3s">
+            <div class="it-service-item">
+              <div class="it-service-category mb-30">
+                <span>Physiology</span>
+              </div>
 
-      <!-- 14: Wearable Biometric Sensing -->
-      <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".5s">
-        <div class="it-service-item">
-          <div class="it-service-category mb-30"><span>Wearable Technology</span></div>
-          <div class="it-service-thumb mb-25">
-            <img src="assets/img/service/Pharmaceutical.png" alt="Wearable biometric sensing technology" />
-          </div>
-          <div class="it-service-content">
-            <h4 class="it-service-title mb-15">
-              <a class="hover-anim" href="service.php">Wearable Biometric Sensing</a>
-            </h4>
-            <p>
-              Explore wearable sensing technologies for collecting physiological
-              and movement-related data in human performance research.
-            </p>
-          </div>
-        </div>
-      </div>
+              <div class="it-service-thumb mb-25">
+                <img src="assets/img/service/physiological-monitoring.png" alt="Physiological Monitoring and Temperature Measurement" />
+              </div>
 
-      <!-- 15: Immersive Research -->
-      <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".7s">
-        <div class="it-service-item">
-          <div class="it-service-category mb-30"><span>Human-Machine Interaction</span></div>
-          <div class="it-service-thumb mb-25">
-            <img src="assets/img/service/Cosmetic.png" alt="Haptic technology for human-machine interaction research" />
-          </div>
-          <div class="it-service-content">
-            <h4 class="it-service-title mb-15">
-              <a class="hover-anim" href="service.php">Immersive Interaction Research</a>
-            </h4>
-            <p>
-              Investigate haptic feedback and wearable interaction technologies
-              for simulation, motor learning, and human-machine interaction studies.
-            </p>
-          </div>
-        </div>
-      </div>
+              <div class="it-service-content">
+                <h4 class="it-service-title mb-15">
+                  <a class="hover-anim" href="service.php">
+                    Physiological Monitoring
+                  </a>
+                </h4>
 
-      <!-- 16: Rehabilitation Research -->
-      <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".3s">
-        <div class="it-service-item">
-          <div class="it-service-category mb-30"><span>Rehabilitation Research</span></div>
-          <div class="it-service-thumb mb-25">
-            <img src="assets/img/service/Regulatory.png" alt="Scientific instrumentation for rehabilitation research" />
+                <p>
+                  Explore technologies for hydration-related estimates, muscle
+                  oxygen saturation, and core or surface temperature monitoring
+                  in physiology and human performance research.
+                </p>
+              </div>
+            </div>
           </div>
-          <div class="it-service-content">
-            <h4 class="it-service-title mb-15">
-              <a class="hover-anim" href="service.php">Rehabilitation & Motor Learning</a>
-            </h4>
-            <p>
-              Explore movement measurement and haptic technologies for motor
-              learning, movement studies, and rehabilitation-related research.
-            </p>
-          </div>
-        </div>
-      </div>
 
-      <!-- 17: Sports Science -->
-      <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".5s">
-        <div class="it-service-item">
-          <div class="it-service-category mb-30"><span>Sports Science</span></div>
-          <div class="it-service-thumb mb-25">
-            <img src="assets/img/service/Food.png" alt="Scientific instruments for sports science research" />
-          </div>
-          <div class="it-service-content">
-            <h4 class="it-service-title mb-15">
-              <a class="hover-anim" href="service.php">Sports Performance Research</a>
-            </h4>
-            <p>
-              Investigate force, movement, muscle oxygenation, hydration-related
-              estimates, and temperature responses in sports science research.
-            </p>
-          </div>
-        </div>
-      </div>
+          <!-- 5 -->
+          <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".5s">
+            <div class="it-service-item">
+              <div class="it-service-category mb-30">
+                <span>3D Foot Scanning</span>
+              </div>
 
-      <!-- 18: Footwear Research -->
-      <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".7s">
-        <div class="it-service-item">
-          <div class="it-service-category mb-30"><span>Footwear Research</span></div>
-          <div class="it-service-thumb mb-25">
-            <img src="assets/img/service/Nutraceutical.png" alt="Footwear and orthotic product research technology" />
-          </div>
-          <div class="it-service-content">
-            <h4 class="it-service-title mb-15">
-              <a class="hover-anim" href="service.php">Footwear & Orthotic Research</a>
-            </h4>
-            <p>
-              Explore foot morphology and plantar pressure measurement for
-              footwear evaluation, insole comparison, and orthotic design research.
-            </p>
-          </div>
-        </div>
-      </div>
+              <div class="it-service-thumb mb-25">
+                <img src="assets/img/service/foot-morphology.png" alt="3D Foot Scanning and Anthropometric Measurement" />
+              </div>
 
+              <div class="it-service-content">
+                <h4 class="it-service-title mb-15">
+                  <a class="hover-anim" href="service.php">
+                    3D Foot Morphology Analysis
+                  </a>
+                </h4>
+
+                <p>
+                  Explore 3D foot scanning technologies for foot morphology,
+                  anthropometric measurements, footwear evaluation, and
+                  orthotic design research.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- 6 -->
+          <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow itfadeUp" data-wow-delay=".7s">
+            <div class="it-service-item">
+              <div class="it-service-category mb-30">
+                <span>Pressure Mapping</span>
+              </div>
+
+              <div class="it-service-thumb mb-25">
+                <img src="assets/img/service/pressure-mapping.png" alt="Pressure Mapping and Ergonomics Research Systems" />
+              </div>
+
+              <div class="it-service-content">
+                <h4 class="it-service-title mb-15">
+                  <a class="hover-anim" href="service.php">
+                    Pressure Mapping & Ergonomics
+                  </a>
+                </h4>
+
+                <p>
+                  Investigate seating pressure distribution, hand pressure,
+                  grasping mechanics, and contact patterns for ergonomics,
+                  human factors, and product evaluation research.
+                </p>
+              </div>
+            </div>
+          </div>
     </div>
 
          </div>

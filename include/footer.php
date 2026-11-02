@@ -15,11 +15,11 @@
 
                <div class="it-footer-widget footer-col-1">
 
-                  <div class="it-footer-logo">
+                  <!-- <div class="it-footer-logo">
                      <a href="index.php">
                         <img src="assets/img/logo/favicon.png" alt="Global Amigo ">
                      </a>
-                  </div>
+                  </div> -->
 
                   <div class="it-footer-text pb-15">
                      <p>
@@ -74,11 +74,11 @@
 
                   <div class="it-footer-list">
                      <ul>
-                        <li><a href="#"><i class="fa-regular fa-angle-right"></i>Material Sourcing</a></li>
-                        <li><a href="#"><i class="fa-regular fa-angle-right"></i>Technical Support</a></li>
-                        <li><a href="#"><i class="fa-regular fa-angle-right"></i>Compliance Assistance</a></li>
-                        <li><a href="#"><i class="fa-regular fa-angle-right"></i>Supplier Management</a></li>
-                        <li><a href="#"><i class="fa-regular fa-angle-right"></i>Supply Chain Solutions</a></li>
+                        <li><a href="#"><i class="fa-regular fa-angle-right"></i>Force Measurement Systems</a></li>
+                        <li><a href="#"><i class="fa-regular fa-angle-right"></i>EEG & Neural Recording</a></li>
+                        <li><a href="#"><i class="fa-regular fa-angle-right"></i>Gait & Plantar Pressure Analysis</a></li>
+                        <li><a href="#"><i class="fa-regular fa-angle-right"></i>Physiological Monitoring</a></li>
+                        <li><a href="#"><i class="fa-regular fa-angle-right"></i>3D Foot Morphology Analysis</a></li>
                      </ul>
                   </div>
 

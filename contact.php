@@ -85,7 +85,7 @@
       <div class="row">
          <div class="col-xl-8 col-lg-8">
             <div class="it-contact-from-wrap z-index">
-               <form id="contactForm" method="POST">
+               <form id="#" method="#">
                   <div class="row">
 
                      <div class="col-sm-6 col-12 mb-20">

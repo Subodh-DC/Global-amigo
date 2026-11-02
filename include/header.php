@@ -82,13 +82,7 @@
                         <ul>
                            <li><a href="index.php">Home</a></li>
                            <li><a href="about-us.php">About Us</a></li>
-                           <li class="has-dropdown">
-                              <a href="#">Solutions</a>
-                              <ul class="it-submenu submenu">
-                                 <li><a href="service.php">Services</a></li>
-                                 <li><a href="products.php">Products</a></li>
-                              </ul>
-                           </li>
+                           <li><a href="service.php#">Services</a></li>
                            <li><a href="contact.php">Contact Us</a></li>
                         </ul>
                      </nav>

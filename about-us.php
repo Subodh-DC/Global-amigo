@@ -80,7 +80,7 @@
 
           <div class="col-xl-5 col-lg-5 order-1 order-lg-0">
             <div class="it-about-5-thumb">
-              <img src="assets/img/about/about-5-1.jpg" alt="Scientific research and human performance instrumentation">
+              <img src="assets/img/about/about1.png" alt="Scientific research and human performance instrumentation" style="border-radius: 20px;">
             </div>
           </div>
 
@@ -177,7 +177,7 @@
 
                 <div class="col-xl-5 col-lg-5 col-md-5">
                   <div class="it-about-5-thumb-sm text-end">
-                    <img src="assets/img/about/about-5-2.jpg" alt="Human movement and scientific measurement research">
+                    <img src="assets/img/about/about2.png" alt="Human movement and scientific measurement research" style="border-radius: 20px;">
                   </div>
                 </div>
 
@@ -189,73 +189,6 @@
       </div>
     </div>
     <!-- about-area-end -->
-
-
-<!-- funfact area start -->
-<div class="it-funfact-area funfact-ptb fix z-index-3 theme-bg">
-   <div class="container">
-      <div class="row">
-         <div class="col-12">
-            <div class="it-funfact-item-box flex-wrap d-md-flex align-content-center justify-content-md-between">
-
-               <!-- Scientific Instrument Categories -->
-               <div class="it-funfact-item d-flex align-items-center">
-                  <span class="it-funfact-icon">
-                     <i class="flaticon-completed-task"></i>
-                  </span>
-                  <div>
-                     <h5 class="it-funfact-number text-white">
-                        <i class="purecounter" data-purecounter-duration="2" data-purecounter-end="6"></i>+
-                     </h5>
-                     <span class="text-white">Research Application Areas</span>
-                  </div>
-               </div>
-
-               <!-- Scientific Research Technologies -->
-               <div class="it-funfact-item d-flex align-items-center">
-                  <span class="it-funfact-icon">
-                     <i class="flaticon-rating"></i>
-                  </span>
-                  <div>
-                     <h5 class="it-funfact-number text-white">
-                        <i class="purecounter" data-purecounter-duration="2" data-purecounter-end="10">0</i>+
-                     </h5>
-                     <span class="text-white">Specialized Technologies</span>
-                  </div>
-               </div>
-
-               <!-- Research Support -->
-               <div class="it-funfact-item d-flex align-items-center">
-                  <span class="it-funfact-icon">
-                     <i class="flaticon-people"></i>
-                  </span>
-                  <div>
-                     <h5 class="it-funfact-number text-white">
-                        <i class="purecounter" data-purecounter-duration="2" data-purecounter-end="7">0</i>+
-                     </h5>
-                     <span class="text-white">Research Application Areas</span>
-                  </div>
-               </div>
-
-               <!-- Scientific Focus -->
-               <div class="it-funfact-item d-flex align-items-center">
-                  <span class="it-funfact-icon">
-                     <i class="flaticon-medal"></i>
-                  </span>
-                  <div>
-                     <h5 class="it-funfact-number text-white">
-                        <i class="purecounter" data-purecounter-duration="2" data-purecounter-end="100">0</i>%
-                     </h5>
-                     <span class="text-white">Research-Focused Approach</span>
-                  </div>
-               </div>
-
-            </div>
-         </div>
-      </div>
-   </div>
-</div>
-<!-- funfact area end -->
 
 
       <!-- mission and vision  start -->
@@ -347,11 +280,10 @@
 
                   <div class="it-about-right">
                      <div class="it-about-single-thumb">
-                        <img src="assets/img/about/mission.png" class="img-fluid w-100" alt="Global Amigo Scientific Research Instruments"
+                        <img src="assets/img/about/our-mission.png" class="img-fluid w-100" alt="Global Amigo Scientific Research Instruments"
                            style="height: 500px; border-radius: 10px;" />
                      </div>
                   </div>
-
                </div>
             </div>
          </div>
@@ -376,7 +308,7 @@
 
                   <div class="it-about-left">
                      <div class="it-about-single-thumb">
-                        <img src="assets/img/about/vission.png" class="img-fluid w-100" alt="Global Amigo Scientific Research Instruments"
+                        <img src="assets/img/about/our-vission.png" class="img-fluid w-100" alt="Global Amigo Scientific Research Instruments"
                            style="border-radius: 10px;" />
                      </div>
                   </div>
