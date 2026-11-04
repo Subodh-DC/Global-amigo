@@ -63,7 +63,7 @@
 <header>
 
    <!-- Header Area -->
-   <div id="header-sticky" class="it-header-area it-header-ptb it-header-style-3 white-bg">
+   <div id="header-sticky" class="it-header-area it-header-ptb it-header-style-3" style="background: #e3efff;">
       <div class="container">
          <div class="p-relative">
             <div class="row align-items-center">
@@ -83,6 +83,7 @@
                            <li><a href="index.php">Home</a></li>
                            <li><a href="about-us.php">About Us</a></li>
                            <li><a href="service.php#">Services</a></li>
+                           <li><a href="product.php">Products</a></li>
                            <li><a href="contact.php">Contact Us</a></li>
                         </ul>
                      </nav>

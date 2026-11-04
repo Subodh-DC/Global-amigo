@@ -167,8 +167,8 @@
                         </div>
                         <div class="it-contact__text">
                            <span>Research Enquiries</span>
-                           <a href="mailto:akhileshjaiswal@globalamigo.in">Contact Our Team</a>
-                           <a href="mailto:sales@globalamigo.in">Sales & Product Enquiries</a>
+                           <a href="mailto:info@globalamigo.in">Contact Our Team</a>
+                           <a href="mailto:info@globalamigo.in">Sales & Product Enquiries</a>
                         </div>
                      </div>
                   </li>
@@ -217,8 +217,7 @@
                         </div>
                         <div class="it-contact__text">
                            <span>Email Address</span>
-                           <a href="mailto:akhileshjaiswal@globalamigo.in">akhileshjaiswal@globalamigo.in</a>
-                           <a href="mailto:sales@globalamigo.in">sales@globalamigo.in</a>
+                           <a href="mailto:info@globalamigo.in">info@globalamigo.in</a>
                         </div>
                      </div>
                   </li>

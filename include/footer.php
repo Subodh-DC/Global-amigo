@@ -56,6 +56,7 @@
                         <li><a href="index.php"><i class="fa-regular fa-angle-right"></i>Home</a></li>
                         <li><a href="about-us.php"><i class="fa-regular fa-angle-right"></i>About</a></li>
                         <li><a href="service.php"><i class="fa-regular fa-angle-right"></i>Services</a></li>
+                         <li><a href="product.php"><i class="fa-regular fa-angle-right"></i>Products</a></li>
                         <li><a href="contact.php"><i class="fa-regular fa-angle-right"></i>Contact</a></li>
                      </ul>
                   </div>
@@ -64,7 +65,7 @@
 
             </div>
 
-            <!-- Services -->
+            <!-- Services and Products -->
             <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6 mb-50 wow itfadeUp" data-wow-duration=".9s"
                data-wow-delay=".5s">
 
@@ -74,17 +75,23 @@
 
                   <div class="it-footer-list">
                      <ul>
-                        <li><a href="#"><i class="fa-regular fa-angle-right"></i>Force Measurement Systems</a></li>
-                        <li><a href="#"><i class="fa-regular fa-angle-right"></i>EEG & Neural Recording</a></li>
-                        <li><a href="#"><i class="fa-regular fa-angle-right"></i>Gait & Plantar Pressure Analysis</a></li>
-                        <li><a href="#"><i class="fa-regular fa-angle-right"></i>Physiological Monitoring</a></li>
-                        <li><a href="#"><i class="fa-regular fa-angle-right"></i>3D Foot Morphology Analysis</a></li>
+                        <li><a href="#"><i class="fa-regular fa-angle-right"></i>Human Performance</a></li>
+                        <li><a href="#"><i class="fa-regular fa-angle-right"></i>Legal Consultant Services</a></li>
+                     </ul>
+                  </div>
+                  <h4 class="it-footer-widget-title" style="margin-top: 20px;">Products</h4>
+                  <div class="it-footer-list">
+                     <ul>
+                        <li><a href="#"><i class="fa-regular fa-angle-right"></i>Muscle Oxygen Sensor</a></li>
+                        <li><a href="#"><i class="fa-regular fa-angle-right"></i>Hydration & Sweat Sensor</a></li>
                      </ul>
                   </div>
 
                </div>
 
             </div>
+
+            
 
          </div>
       </div>
